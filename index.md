@@ -27,7 +27,9 @@
 				<h2 class="subtitulo">CAMINO CON CERTEZA</h2>
 				<div class="line2"></div>
 				<h2 class="subtitulo2">PRÓXIMAMENTE</h2>
-				<input class="Button" type="submit" value="Pre-Registro" id="btnSend">
+				<a href="https://www.facebook.com/CaminoConCerteza">
+					<button class="Button"  id="btnSend">Pre-Registro</button>
+				 </a>
 			</section>
 		</div>
 	</main>
